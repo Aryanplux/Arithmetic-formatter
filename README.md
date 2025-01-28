@@ -16,7 +16,6 @@ This project is just for fun and a way to practice Python coding! It’s perfect
 ## How It Works
 You provide the program with a list of arithmetic problems (like `"32 + 8"` or `"45 - 12"`), and it will be formated
 
-8 - 12
 ## Skills Highlighted
 - String manipulation
 - Basic arithmetic logic
