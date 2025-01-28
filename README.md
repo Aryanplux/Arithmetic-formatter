@@ -14,9 +14,9 @@ This is a mini Python project where I built a program to neatly format and displ
 This project is just for fun and a way to practice Python coding! It’s perfect for anyone learning programming and wanting to see a practical use case of string manipulation and formatting.
 
 ## How It Works
-You provide the program with a list of arithmetic problems (like `"32 + 8"` or `"45 - 12"`), and it formats them like this: ("32")
-                                                                                                                            ("+8")
-                                                                                                                            ("--")
+You provide the program with a list of arithmetic problems (like `"32 + 8"` or `"45 - 12"`), and it formats them like this:   32
+                                                                                                                              +8
+                                                                                                                              --
 ## Skills Highlighted
 - String manipulation
 - Basic arithmetic logic
